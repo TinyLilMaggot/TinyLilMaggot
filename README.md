@@ -1,5 +1,9 @@
-## What is up you guys
-Speak French to me
+## i'm really cool
+he/they
+i like to speak french and dutch 
+i love joost klein and iris billinsky
+<img src="https://www.100pmagazine.nl/wp-content/uploads/2025/02/joostkleintje.png"/>
+
 
 <!--
 **TinyLilMaggot/TinyLilMaggot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
