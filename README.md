@@ -1,4 +1,5 @@
-## Hi there 👋
+## What is up you guys
+Speak French to me
 
 <!--
 **TinyLilMaggot/TinyLilMaggot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
