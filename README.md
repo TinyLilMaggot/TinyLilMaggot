@@ -1,8 +1,8 @@
 ## i'm really cool
-he/they
-i like to speak french and dutch 
-i love joost klein and iris billinsky
-<img src="https://www.100pmagazine.nl/wp-content/uploads/2025/02/joostkleintje.png"/>
+- he/they
+- i like to speak french and dutch 
+- i love joost klein and iris billinsky
+<img src="https://u.cubeupload.com/scallywag/image.png"/>
 
 
 <!--
