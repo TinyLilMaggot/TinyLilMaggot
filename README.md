@@ -4,7 +4,7 @@
 - i like to speak french and dutch 
 - i love joost klein and iris billinsky
 <img src="https://u.cubeupload.com/scallywag/0image.png"/>
-<img src="https://i.imgur.com/SK7G5B1.gif" width="300" style="border-radius: 20;"/>
+<img src="https://i.imgur.com/SK7G5B1.gif" width="300" style="border-radius: 20px;"/>
 
 <!--
 **TinyLilMaggot/TinyLilMaggot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
