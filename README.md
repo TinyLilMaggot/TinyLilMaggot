@@ -3,7 +3,7 @@
 - he/they
 - i like to speak french and dutch 
 - i love joost klein and iris billinsky
-##I don't talk very much but you can definitely try!
+## I don't talk very much but you can definitely try!
 <img src="https://u.cubeupload.com/scallywag/0image.png"/>
 <img src="https://i.imgur.com/SK7G5B1.gif" width="300"/>
 
